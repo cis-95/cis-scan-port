@@ -1,0 +1,15 @@
+21,FTP,File Transfer Protocol (Unencrypted)
+22,SSH,Secure Shell
+23,Telnet,Remote Login (Unencrypted)
+25,SMTP,Email Server
+53,DNS,Domain Name System
+80,HTTP,Web Server
+443,HTTPS,Secure Web Server
+445,SMB,Windows File Sharing (High Risk)
+1433,MSSQL,SQL Server Database
+3306,MySQL,MySQL Database
+5432,PostgreSQL,PostgreSQL Database
+6379, Redis, Redis Database
+3389,RDP,Remote Desktop Protocol
+8080,HTTP-Proxy,Web Proxy / Alternative HTTP
+8291,Winbox,MikroTik Management
